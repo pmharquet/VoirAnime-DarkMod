@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "VoirAnime - DarkMod : streaming animes",
   "description": "Thème sombre et plus encore, pour l'ensemble du site \"voiranime.cx\" (VA).",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "author": "Orilo",
   "icons": {
     "16": "icons/icon16.png",
@@ -11,7 +11,6 @@
     "128": "icons/icon128.png"
   },
   "permissions": [
-    "scripting",
     "storage"
   ],
   "action": {
