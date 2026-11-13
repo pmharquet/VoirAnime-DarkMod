@@ -1,5 +1,5 @@
 (() => {
-    // Fix d'un bug du site voir-anime.to : dans le footer, l'icône Discord
+    // Fix d'un bug du site voiranime.cx : dans le footer, l'icône Discord
     // utilise <i class="fa-discord"> mais il manque la classe `.fab` (Font
     // Awesome Brands) nécessaire au rendu de l'icône. Ce script ajoute la
     // classe manquante à toutes les balises concernées, sur toutes les pages.
