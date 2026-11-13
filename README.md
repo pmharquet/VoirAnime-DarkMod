@@ -1,7 +1,7 @@
 <div align="center">
 
 # VoirAnime DarkMod
-**Thème sombre et bien plus pour tout le site [VoirAnime](https://voir-anime.to/).**
+**Thème sombre et bien plus pour tout le site [VoirAnime](https://voiranime.cx/).**
 
 [![Version](https://img.shields.io/badge/version-v2.2.1-blue)]()
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/dckaidelfhmapnkeejdihjbdbafckelh)](https://chromewebstore.google.com/detail/dckaidelfhmapnkeejdihjbdbafckelh)
@@ -13,7 +13,7 @@
 [![Image Promotionnelle](img/ImagePromotionnelle.webp)]()
 </div>
 
-**VoirAnime DarkMod** est une extension pour [VoirAnime](https://voir-anime.to/) permettant de personnaliser l’apparence du site (thème sombre/clair, modules CSS modulaires, etc.).
+**VoirAnime DarkMod** est une extension pour [VoirAnime](https://voiranime.cx/) permettant de personnaliser l’apparence du site (thème sombre/clair, modules CSS modulaires, etc.).
 
 ## 🚀 Nouveautés de la v2.0.0
 
@@ -107,7 +107,7 @@ Ce projet est sous licence **GNU GPL v3**. Pour plus de détails, consultez [GPL
 
 ## 🙏 Remerciements
 
-* **[VoirAnime](https://voir-anime.to/)** pour son contenu.
+* **[VoirAnime](https://voiranime.cx/)** pour son contenu.
 * **[pmharquet](https://github.com/pmharquet)** pour le développement initial.
 
 © 2023-2026 **pmharquet** - Projet non affilié à VoirAnime.
